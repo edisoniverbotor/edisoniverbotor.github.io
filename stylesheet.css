@@ -63,3 +63,12 @@
     background-color: lightblue;
     font-style: italic;
 }
+
+#projectideaactive1 {
+    background-color: plum;
+    font-style: italic;
+}
+
+#projectideah1:hover {
+    font-style: italic;
+}
