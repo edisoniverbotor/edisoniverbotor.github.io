@@ -72,3 +72,15 @@
 #projectideah1:hover {
     font-style: italic;
 }
+
+#overview1 {
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+#motivation1 {
+    font-weight: bold;
+}
+#description1 {
+    font-weight: bold;
+}
