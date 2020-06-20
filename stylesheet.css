@@ -74,13 +74,49 @@
 }
 
 #overview1 {
-    padding-top: 20px;
+    margin-top: 20px;
     font-weight: bold;
+    background-color: lightblue;
 }
-
+#overview1:hover {
+    background-color: lightblue;
+}
 #motivation1 {
     font-weight: bold;
+    background-color: lightblue;
+}
+#motivation1:hover {
+    background-color: lightblue;
 }
 #description1 {
     font-weight: bold;
+    background-color: lightblue;
+}
+#description1:hover {
+    background-color: lightblue;
+}
+#tools1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#tools1:hover {
+    background-color: lightblue;
+}
+#skills1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#skills1:hove {
+    background-color: lightblue;
+}
+#outcomes1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#outcomes1:hover {
+    background-color: lightblue;
+}
+#images1 {
+    font-weight:bold;
+    background-color: lightblue;
 }
